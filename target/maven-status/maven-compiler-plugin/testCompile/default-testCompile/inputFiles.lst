@@ -1,0 +1,15 @@
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/services/PatientServiceTest.java
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/dto/AppointmentRequestTest.java
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/services/AppointmentServiceTest.java
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/entities/DoctorTest.java
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/dto/NotificationRequestTest.java
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/TelemedicineApiApplicationTests.java
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/dto/LoginDTOTest.java
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/entities/AppointmentTest.java
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/controllers/AppointmentControllerTests.java
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/services/DoctorServiceTest.java
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/entities/PatientTest.java
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/services/JwtServiceTest.java
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/controllers/DoctorControllerTests.java
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/helpers/NotificationClientTest.java
+/Users/fredahon/Desktop/Revature-Training/project-2/telemedicine-api/src/test/java/com/project2/telemedicineapi/controllers/PatientControllerTests.java
