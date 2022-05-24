@@ -34,7 +34,7 @@ pipeline {
             steps {
                 script {
                     echo "$registry:$currentBuild.number"
-                    dockerImage = docker.build "$registry"
+                    dockerImage = docker.build "$registry:$currentBuild.number"
                 }
             }
         }
